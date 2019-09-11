@@ -26,7 +26,7 @@ pilih:
     echo "
 $cyan Author  : https://www.ngotakdikit.com
 $lightcyan Type    : Profil Guard Facebook
-$cyan Github  : http://github.com/ngotakdikit
+$cyan Github  : http://github.com/ydimas60
 $red Facebook : https://facebook.com/ydimas60 
 $red Website : https://www.ngotakdikit.com
 $purple Version : 1.0

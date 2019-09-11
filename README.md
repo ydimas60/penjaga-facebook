@@ -1,8 +1,7 @@
-cara penggunaan Perlindungan Foto Facebook dengan Termux dari www.ngotakdikit.com 
+Beberapa cara untuk melindungi pencurian foto profil facebookw
 
-
-Github : https://github.com/ngotakdikit
-Facebook :  https://facebook.com/ydimas60
+Github : https://github.com/ydimas60
+Facebook : https://facebook.com/ydimas60
 Website : http://www.ngotakdikit.com
 
 -- Cara Install --
@@ -19,6 +18,4 @@ $ git clone https://github.com/ngotakdikit/penjaga-facebook.git
 $ cd penjaga-facebook
 $ php fb.php
 
-Untuk selengkpanya cara aktifkan fitur Profil Guard facebook / perlindungan foto profil facebook bisa baca tutorial selengkapnya di bawah ini:
 
-https://www.ngotakdikit.com
