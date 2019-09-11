@@ -1,4 +1,4 @@
-Beberapa cara untuk melindungi pencurian foto profil facebookw
+Beberapa cara untuk melindungi pencurian foto profil facebook.
 
 Github : https://github.com/ydimas60
 Facebook : https://facebook.com/ydimas60
