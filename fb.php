@@ -61,7 +61,7 @@ $darkgray Date    : $date
     sleep(2);
     echo " 
 ";
-    input("$yellow Do You Want To Use This Tool ? $green [y/n]");
+    input("$yellow Apakah anda ingin menjalankan tool ini? $green [y/n]");
     $pilih = trim(fgets(STDIN));
     echo "
 ";

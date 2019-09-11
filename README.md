@@ -22,4 +22,4 @@ $ cd penjaga-facebook
 
 $ php fb.php
 
-
+Tutorial selengkapnya bisa kamu anda baca disini https://www.ngotakdikit.com/2019/09/cara-mengaktifkan-perlindungan-pencurian-foto-profil-facebook-di-android.html
