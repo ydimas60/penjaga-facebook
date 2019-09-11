@@ -7,8 +7,11 @@ Website : http://www.ngotakdikit.com
 -- Cara Install --
 
 $ pkg update
+
 $ pkg install php
+
 $ pkg install git
+
 $ pkg upgrade
 
 $ git clone https://github.com/ngotakdikit/penjaga-facebook.git
@@ -16,6 +19,7 @@ $ git clone https://github.com/ngotakdikit/penjaga-facebook.git
 -- Cara Menjalankan --
 
 $ cd penjaga-facebook
+
 $ php fb.php
 
 
